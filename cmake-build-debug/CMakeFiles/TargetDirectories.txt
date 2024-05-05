@@ -1,0 +1,3 @@
+C:/Users/proka/OneDrive/Masaüstü/Dosyalar/Dersler/CNG140/craggame/cmake-build-debug/CMakeFiles/craggame.dir
+C:/Users/proka/OneDrive/Masaüstü/Dosyalar/Dersler/CNG140/craggame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/proka/OneDrive/Masaüstü/Dosyalar/Dersler/CNG140/craggame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
